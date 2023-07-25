@@ -15,7 +15,7 @@
 // @connect      objects.githubusercontent.com
 // ==/UserScript==
 
-const SCRIPT_LOCATION = 'https://github.com/WillFJS/placestart-userscript/releases/download/latest/placenl-userscript.user.js';
+const SCRIPT_LOCATION = 'https://github.com/WillFJS/placestart-userscript/releases/download/latest/placenl-userscript-autoupdater.user.js';
 const UPDATE_CHECK_INTERVAL = 10 * 60 * 1000;
 
 (function () {
